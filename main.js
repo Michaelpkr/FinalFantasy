@@ -11,61 +11,61 @@ document.getElementById('FF10').onclick = ff10Background
 
 
 function ff1Background() {
-    document.body.style.backgroundImage = "url('/Users/michaelparker/Documents/Coding/FinalFantasy/img/ff1BackgroundIMG.png')";
+    document.body.style.backgroundImage = "url('/FinalFantasy/ff1BackgroundIMG.png')";
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
 }
 
 function ff2Background() {
-    document.body.style.backgroundImage = "url('/Users/michaelparker/Documents/Coding/FinalFantasy/img/ff2BackgroundIMG.jpeg')";
+    document.body.style.backgroundImage = "url('/FinalFantasy/ff2BackgroundIMG.jpeg')";
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
 }
 
 function ff3Background() {
-    document.body.style.backgroundImage = "url('/Users/michaelparker/Documents/Coding/FinalFantasy/img/ff3BackgroundIMG.gif')";
+    document.body.style.backgroundImage = "url('/FinalFantasy/ff3BackgroundIMG.gif')";
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
 }
 
 function ff4Background() {
-    document.body.style.backgroundImage = "url('/Users/michaelparker/Documents/Coding/FinalFantasy/img/ff4BackgroundIMG.png')";
+    document.body.style.backgroundImage = "url('/FinalFantasy/ff4BackgroundIMG.png')";
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
 }
 
 function ff5Background() {
-    document.body.style.backgroundImage = "url('/Users/michaelparker/Documents/Coding/FinalFantasy/img/ff5BackgroundIMG.png')";
+    document.body.style.backgroundImage = "url('/FinalFantasy/ff5BackgroundIMG.png')";
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
 }
 
 function ff6Background() {
-    document.body.style.backgroundImage = "url('/Users/michaelparker/Documents/Coding/FinalFantasy/img/ff6BackgroundIMG.png')";
+    document.body.style.backgroundImage = "url('/FinalFantasy/ff6BackgroundIMG.png')";
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
 }
 
 function ff7Background() {
-    document.body.style.backgroundImage = "url('/Users/michaelparker/Documents/Coding/FinalFantasy/img/ff7BackgroundIMG.png')";
+    document.body.style.backgroundImage = "url('/FinalFantasy/ff7BackgroundIMG.png')";
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
 }
 
 function ff8Background() {
-    document.body.style.backgroundImage = "url('/Users/michaelparker/Documents/Coding/FinalFantasy/img/ff8BackgroundIMG.png')";
+    document.body.style.backgroundImage = "url('/FinalFantasy/ff8BackgroundIMG.png')";
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
 }
 
 function ff9Background() {
-    document.body.style.backgroundImage = "url('/Users/michaelparker/Documents/Coding/FinalFantasy/img/ff9BackgroundIMG.png')";
+    document.body.style.backgroundImage = "url('/FinalFantasy/ff9BackgroundIMG.png')";
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
 }
 
 function ff10Background() {
-    document.body.style.backgroundImage = "url('/Users/michaelparker/Documents/Coding/FinalFantasy/img/ff10BackgroundIMG.png')";
+    document.body.style.backgroundImage = "url('/FinalFantasy/ff10BackgroundIMG.png')";
     document.body.style.backgroundRepeat = "no-repeat";
     document.body.style.backgroundSize = "cover";
 }
